@@ -1,6 +1,6 @@
 {
-    "name": "wwu_wash_and_dry",
-    "short_name": "wwu_wash_and_dry",
+    "name": "test_flutter_project",
+    "short_name": "test_flutter_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
